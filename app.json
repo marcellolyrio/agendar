@@ -1,4 +1,10 @@
 {
   "name": "hunt",
-  "displayName": "hunt"
+  "displayName": "hunt",
+  "expo":
+      {
+        "name":"hunt",
+        "slug":"hunt",
+        "sdkVersion":"..."
+      }
 }
